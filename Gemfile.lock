@@ -21,10 +21,11 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-linux
 
 DEPENDENCIES
   nokogiri
   rspec
 
 BUNDLED WITH
-   1.16.1
+   2.2.2
